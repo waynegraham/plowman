@@ -1,0 +1,43 @@
+@import url('http://fonts.googleapis.com/css?family=IM+Fell+DW+Pica|Meddon');
+@import url('http://fonts.googleapis.com/css?family=UnifrakturCook:700');
+@import url('https://raw.github.com/necolas/normalize.css/master/normalize.css');
+
+
+.passus {
+    margin-bottom : 30px;
+    width : 960px;
+    /*font-family: 'UnifrakturCook', cursive;*/
+    font-family : 'IM Fell DW Pica', serif;
+}
+
+.passus h1 {
+    margin-left : 400px;
+}
+.punctus {
+    -moz-transform: matrix(1, 0, 0, -1, 0, 0);
+    -webkit-transform: matrix(1, -0.2, 0, 1, 0, 0);
+    -o-transform: matrix(1, 0, 0, -1, 0, 0);
+    -ms-transform(1, 0, 0, -1, 0, 0);
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.lg {
+    display : block;
+    margin-bottom : 30px;
+    clear : both;
+    font-size : 1.5em;
+}
+.line {
+    margin-left : 400px;
+}
+
+.marginalia {
+    float : left;
+    background-color : #4ba3cc;
+    font-family : 'Meddon', cursive;
+    margin-left : 20px;
+    font-size : 12px;
+    width : 350px;
+    padding : 3px;
+    display : none;
+}
