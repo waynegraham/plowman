@@ -2,12 +2,10 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tei="http://www.tei-c.org/ns/1.0"
     exclude-result-prefixes="tei xs" version="2.0">
-
     <xsl:output method="html" encoding="UTF-8" indent="yes"/>
 
     <xsl:template match="/">
         <xsl:text disable-output-escaping="yes">&lt;!DOCTYPE html></xsl:text>
-
         <html>
             <meta charset="utf-8"/>
             <title>
