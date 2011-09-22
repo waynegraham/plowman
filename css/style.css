@@ -1,7 +1,6 @@
 @import url('http://fonts.googleapis.com/css?family=IM+Fell+DW+Pica|Meddon');
-@import url('http://fonts.googleapis.com/css?family=UnifrakturCook:700');
+/*@import url('http://fonts.googleapis.com/css?family=UnifrakturCook:700');*/
 @import url('https://raw.github.com/necolas/normalize.css/master/normalize.css');
-
 
 .passus {
     margin-bottom : 30px;
@@ -13,12 +12,21 @@
 .passus h1 {
     margin-left : 400px;
 }
+
 .punctus {
     -moz-transform: matrix(1, 0, 0, -1, 0, 0);
     -webkit-transform: matrix(1, 0, 0, -1, 0, 0);
     -o-transform: matrix(1, 0, 0, -1, 0, 0);
     -ms-transform(1, 0, 0, -1, 0, 0);
     transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.C2 {
+    background-color: blue;
+}
+
+.WP {
+    background-color: red;
 }
 
 .lg {
@@ -28,16 +36,15 @@
     font-size : 1.5em;
 }
 .line {
-    margin-left : 400px;
+    width: 720px;
 }
 
 .marginalia {
-    float : left;
     background-color : #4ba3cc;
-    font-family : 'Meddon', cursive;
     margin-left : 20px;
     font-size : 12px;
-    width : 350px;
+    width : 200px;
     padding : 3px;
-    display : none;
+    font-size: 12px;
+    max-width: 200px;
 }

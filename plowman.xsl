@@ -15,8 +15,8 @@
             <meta name="description" content="{TEI.2/teiHeader/fileDesc/sourceDesc/p}"/>
             <link rel="stylesheet" href="css/style.css"/>
             <script src="http://static.scholarslab.org/javascripts/modernizr-2.0.6.js"/>
-            <script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"/>
-            
+            <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"/>
+
             <body>
                 <div id="container">
                     <header role="banner">
@@ -39,7 +39,7 @@
     </xsl:template>
 
     <xsl:template match="div1">
-        <div class="passus">
+        <div id="{@n}" class="passus">
             <xsl:apply-templates/>
         </div>
     </xsl:template>
@@ -61,29 +61,41 @@
     </xsl:template>
 
     <xsl:template match="l">
-        <div class="line" id="{@id}">
-            <xsl:apply-templates/>
+        <xsl:variable name="linenumber">
+            <xsl:value-of select="translate(@n, 'KPD.', '')"/>
+        </xsl:variable>
+        
+        <xsl:variable name="marginalia_lines">
+            <xsl:value-of select="preceding-sibling::marginalia[following-sibling::l[position() = 1]] " />
+        </xsl:variable>
+        
+        <div class="line" id="{@id}" data-line="{$linenumber}">
+            <xsl:choose>
+                <xsl:when test="$marginalia_lines != ''">
+                    <span class="marginalia">
+                        <xsl:value-of select="$marginalia_lines" />
+                    </span>
+                </xsl:when>
+            </xsl:choose>
+            
+            <span class="line-data"><xsl:value-of select="."/></span>
+            <!-- <xsl:apply-templates/> -->
             <br/>
         </div>
     </xsl:template>
 
+    <!-- this is a hack; takes a seg (from the list of entities in the DTD) and makes a span punctus -->
     <xsl:template match="seg">
         <span class="punctus">
             <xsl:apply-templates select="node()"/>
         </span>
     </xsl:template>
 
-    <xsl:template match="marginalia">
-        <xsl:variable name="parsed_id">
-            <xsl:value-of select="@id"/>
-        </xsl:variable>
-
-        <span class="marginalia" id="{@id}">
-            <xsl:apply-templates/>
-            <br/>
-        </span>
+    <xsl:template name="the_marginalia">
+        
     </xsl:template>
 
-
-
+    <xsl:template match="marginalia">
+        
+    </xsl:template>
 </xsl:stylesheet>
