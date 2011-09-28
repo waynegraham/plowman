@@ -36,7 +36,13 @@
     font-size : 1.5em;
 }
 .line {
+    width: 960px;
+}
+
+.line-data {
     width: 720px;
+    margin-left: 200px;
+    float: right;
 }
 
 .marginalia {
@@ -47,4 +53,5 @@
     padding : 3px;
     font-size: 12px;
     max-width: 200px;
+    float: left;
 }
