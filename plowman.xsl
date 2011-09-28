@@ -81,8 +81,7 @@
         <div class="line clearfix" id="{@id}" data-line="{$linenumber}">
             <xsl:apply-templates select="preceding-sibling::marginalia[following-sibling::l[position()=1][@id=$lid]]"/>
             
-            <span class="line-data"><xsl:value-of select="."/></span>
-            <!-- <xsl:apply-templates/> -->
+            <span class="line-data"><xsl:apply-templates/></span>
             <br/>
         </div>
     </xsl:template>
