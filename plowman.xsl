@@ -80,9 +80,7 @@
         
         <div class="line clearfix" id="{@id}" data-line="{$linenumber}">
             <xsl:apply-templates select="preceding-sibling::marginalia[following-sibling::l[position()=1][@id=$lid]]"/>
-            
             <span class="line-data"><xsl:value-of select="."/></span>
-            <!-- <xsl:apply-templates/> -->
             <br/>
         </div>
     </xsl:template>
@@ -94,12 +92,12 @@
         </span>
     </xsl:template>
 
-    <xsl:template name="the_marginalia">
-        
-    </xsl:template>
-
     <xsl:template match="marginalia">
-        <span class="marginalia" id="{@id}">
+        <xsl:variable name="witness" select="substring(@id, 1,2)">
+            <!-- process the first part of the @id -->
+        </xsl:variable>
+        
+        <span class="marginalia {$witness}" id="{@id}">
             <xsl:value-of select="."/>
         </span>
     </xsl:template>

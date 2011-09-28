@@ -21,12 +21,331 @@
     transform: matrix(1, 0, 0, -1, 0, 0);
 }
 
+.O1 {
+    background-color: SeaGreen;
+}
+
+.Bx {
+    background-color: SeaGreen;
+}
+
+.C1 {
+    background-color: aliceblue;
+}
+
 .C2 {
     background-color: blue;
 }
 
+.C3 {
+    background-color: Thistle;
+}
+
+.C4 {
+    background-color: Thistle;
+}
+
+.C5 {
+    background-color: OrangeRed;
+}
+
+.C6 {
+    background-color: OrangeRed;
+}
+
+.C7 {
+    background-color: OrangeRed;
+}
+
+.CP {
+    background-color: yellow;
+}
+
+.Cr {
+    background-color: purple;
+}
+
+.F {
+    background-color: pink;
+}
+
+.F1 {
+    background-color: pink;
+}
+
+.F2 {
+    background-color: pink;
+}
+
+.F3 {
+    background-color: pink;
+}
+
+.F4 {
+    background-color: pink;
+}
+
+.F5 {
+    background-color: pink;
+}
+
+.F6 {
+    background-color: pink;
+}
+
+.F7 {
+    background-color: pink;
+}
+
+.F8 {
+    background-color: pink;
+}
+
+.G {
+    background-color: Linen;
+}
+
+.G1 {
+    background-color: greenyellow;
+}
+
+.G2 {
+    background-color: LightGoldenRodYellow;
+}
+
+.G3 {
+    background-color: MediumAquaMarine;
+}
+.G4 {
+    background-color: greenyellow;
+}
+
+.G5 {
+    background-color: greenyellow;
+}
+
+.G6 {
+    background-color: greenyellow;
+}
+
+.G7 {
+    background-color: greenyellow;
+}
+
+.Hm {
+    background-color: MediumOrchid;
+}
+
+.L1 {
+    background-color: darkkhaki;
+}
+
+.L2 {
+    background-color: peru;
+}
+
+.L3 {
+    background-color: LightSteelBlue;
+}
+
+.L3 {
+    background-color: MediumVioletRed;
+}
+
+.L4 {
+    background-color: MistyRose;
+}
+
+.L5 {
+    background-color: MistyRose;
+}
+
+.L6 {
+    background-color: MistyRose;
+}
+
+.L7 {
+    background-color: MistyRose;
+}
+
+.LP {
+    background-color : #4ba3cc;
+}
+
+.M1 {
+    background-color: gray;
+}
+
+.M2 {
+    background-color: plum;
+}
+
+.M3 {
+    background-color: Violet;
+}
+
+.M4 {
+    background-color: LightSlateGray;
+}
+
+.M5 {
+    background-color: Olive;
+}
+
+.M6 {
+    background-color: Olive;
+}
+
+.M7 {
+    background-color: Olive;
+}
+
+.MP {
+    background-color: orange;
+}
+
+.OP {
+    background-color: brown;
+}
+
+.O1 {
+    background-color: SteelBlue ;
+}
+
+.O2 {
+    background-color: Tomato;
+}
+
+.O3 {
+    background-color: Teal;
+}
+
+.O4 {
+    background-color: Moccasin;
+}
+
+.O5 {
+    background-color: Lavender;
+}
+
+.O6 {
+    background-color: Lavender;
+}
+
+.O7 {
+    background-color: Lavender;
+}
+
+.R1 {
+    background-color: PapayaWhip;
+}
+
+.R2 {
+    background-color: Gold;
+}
+
+.R3 {
+    background-color: GoldenRod;
+}
+
+.R4 {
+    background-color: IndianRed;
+}
+
+.R5 {
+    background-color: LightGreen;
+}
+
+.R {
+    background-color: LightGreen;
+}
+
+.SP {
+    background-color: snow;
+}
+
+.S1 {
+    background-color: LightGreen;
+}
+
+.S2 {
+    background-color: LightGreen;
+}
+
+.S3 {
+    background-color: LightGreen;
+}
+
+.S4 {
+    background-color: LightGreen;
+}
+
+.S {
+    background-color: LightGreen;
+}
+
+.W1 {
+    background-color: OliveDrab;
+}
+
+.W2 {
+    background-color: Salmon;
+}
+
+.W3 {
+    background-color: LightYellow;
+}
+
+.W4 {
+    background-color: MintCream;
+}
+
+.W5 {
+    background-color: Orchid;
+}
+
+.W6 {
+    background-color: Orchid;
+}
+
+.W7 {
+    background-color: Orchid;
+}
+
 .WP {
     background-color: red;
+}
+
+.Y1 {
+    background-color: LightCoral;
+}
+
+.Y2 {
+    background-color: NavajoWhite;
+}
+
+.Y3 {
+    background-color: OldLace;
+}
+
+.Y4 {
+    background-color: Gainsboro;
+}
+
+.Y5 {
+    background-color: Gainsboro;
+}
+
+.Y6 {
+    background-color: Gainsboro;
+}
+
+.Y7 {
+    background-color: Gainsboro;
+}
+
+.Y {
+    background-color: Gainsboro;
 }
 
 .lg {
@@ -46,7 +365,6 @@
 }
 
 .marginalia {
-    background-color : #4ba3cc;
     margin-left : 20px;
     font-size : 12px;
     width : 200px;
