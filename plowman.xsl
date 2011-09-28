@@ -56,7 +56,7 @@
 
     <xsl:template match="lg">
         <div class="lg">           
-            <xsl:apply-templates/>
+            <xsl:apply-templates select="l"/>
         </div>
     </xsl:template>
     
@@ -66,8 +66,12 @@
             <xsl:value-of select="translate(@n, 'KPD.', '')"/>
         </xsl:variable>
         
+        <xsl:variable name="lid">
+            <xsl:value-of select="@id"/>
+        </xsl:variable>
+        
         <xsl:variable name="marginalia_line">
-            <xsl:value-of select="preceding-sibling::marginalia[following-sibling::l[position() = 1]]" />
+            <xsl:value-of select="preceding-sibling::marginalia[following-sibling::l[position()=1][@id=$lid]]" />
         </xsl:variable>
         
         <xsl:variable name="marginalia_id">
@@ -75,13 +79,7 @@
         </xsl:variable>
         
         <div class="line" id="{@id}" data-line="{$linenumber}">
-            <xsl:choose>
-                <xsl:when test="$marginalia_line != ''">
-                    <span class="marginalia" id="" data-line="{$linenumber}">
-                        <xsl:value-of select="$marginalia_line" />
-                    </span>
-                </xsl:when>
-            </xsl:choose>
+            <xsl:apply-templates select="preceding-sibling::marginalia[following-sibling::l[position()=1][@id=$lid]]"/>
             
             <span class="line-data"><xsl:value-of select="."/></span>
             <!-- <xsl:apply-templates/> -->
@@ -101,6 +99,8 @@
     </xsl:template>
 
     <xsl:template match="marginalia">
-        
+        <span class="marginalia" id="{@id}">
+            <xsl:value-of select="."/>
+        </span>
     </xsl:template>
 </xsl:stylesheet>
