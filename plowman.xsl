@@ -88,7 +88,7 @@
     <!-- this is a hack; takes a seg (from the list of entities in the DTD) and makes a span punctus -->
     <xsl:template match="seg">
         <span class="punctus">
-            <xsl:apply-templates select="node()"/>
+            <xsl:apply-templates select="."/>
         </span>
     </xsl:template>
 
