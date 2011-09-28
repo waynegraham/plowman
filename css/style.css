@@ -19,7 +19,33 @@
     -ms-transform(1, 0, 0, -1, 0, 0);
     transform: matrix(1, 0, 0, -1, 0, 0);
 }
+.lg {
+    display : block;
+    /* border: 1px solid blue;*/
+    margin-bottom : 30px;
+    clear : both;
+    font-size : 1.5em;
+}
+.line {
+    width: 960px;
+    border: 1px solid #c0c0c0;
+}
 
+.line-data {
+    width: 720px;
+    /* margin-left: 200px; */
+    float: right;
+}
+
+.marginalia {
+    margin-left : 20px;
+    font-size : 12px;
+    width : 200px;
+    padding : 3px;
+    font-size: 12px;
+    max-width: 200px;
+    float: left;
+}
 .O1 {
     background-color: SeaGreen;
 }
@@ -347,31 +373,7 @@
     background-color: Gainsboro;
 }
 
-.lg {
-    display : block;
-    margin-bottom : 30px;
-    clear : both;
-    font-size : 1.5em;
-}
-.line {
-    width: 960px;
-}
 
-.line-data {
-    width: 720px;
-    /* margin-left: 200px; */
-    float: right;
-}
-
-.marginalia {
-    margin-left : 20px;
-    font-size : 12px;
-    width : 200px;
-    padding : 3px;
-    font-size: 12px;
-    max-width: 200px;
-    float: left;
-}
 
 /* From HTML 5 Boilerplate. */
 .clearfix:before, .clearfix:after { content: ""; display: table; }
