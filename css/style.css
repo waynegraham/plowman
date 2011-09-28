@@ -41,7 +41,7 @@
 
 .line-data {
     width: 720px;
-    margin-left: 200px;
+    /* margin-left: 200px; */
     float: right;
 }
 
@@ -55,3 +55,8 @@
     max-width: 200px;
     float: left;
 }
+
+/* From HTML 5 Boilerplate. */
+.clearfix:before, .clearfix:after { content: ""; display: table; }
+.clearfix:after { clear: both; }
+.clearfix { *zoom: 1; }

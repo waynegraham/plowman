@@ -78,7 +78,7 @@
             <xsl:value-of select="preceding-sibling::marginalia[@id]" />
         </xsl:variable>
         
-        <div class="line" id="{@id}" data-line="{$linenumber}">
+        <div class="line clearfix" id="{@id}" data-line="{$linenumber}">
             <xsl:apply-templates select="preceding-sibling::marginalia[following-sibling::l[position()=1][@id=$lid]]"/>
             
             <span class="line-data"><xsl:value-of select="."/></span>
