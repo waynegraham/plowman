@@ -3,16 +3,37 @@
    <title>Marginalia in Piers Plowman B-Text Manuscripts</title>
    <meta name="author" content="Christine Schott, et al., eds.">
    <meta name="description" content="The main text is taken from the Beta version of PPEA's B Archetype, based on MS L. Marginalia is drawn from each of the B-text manuscripts to which PPEA currently has access.">
-   <link rel="stylesheet" href="css/style.css"><script src="http://static.scholarslab.org/javascripts/modernizr-2.0.6.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script><body>
+   <link rel="stylesheet" href="css/style.css"><script src="http://static.scholarslab.org/javascripts/modernizr-2.0.6.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+   <style type="text/css" media="screen">
+    .icon {
+        float:left;
+        width: 20px;
+        height: 20px;
+        margin:0;
+    }
+   </style>
+   <script>
+     $(document).ready(function() {
+         $('.line').each(function(){
+           var marginalia = $(this).children('.marginalia');
+           marginalia.hide().each(function() {
+                 var classValue = $(this).attr('class').split(' ')[1];
+                 var icon = '<div class="icon '+classValue+'"></div>';
+                 $(this).parent().append(icon);
+             });
+         });
+         $('.icon').click(function() {
+            var classValue = $(this).attr('class').split(' ')[1];
+            $(this).parent().children('.marginalia.'+classValue).toggle();
+         });
+     });
+   </script>
+   <body>
+
       <div id="container">
          <header role="banner">
-            <h1>Awesome Site</h1>
+            <h1>Marginalia of Piers Plowman</h1>
          </header>
-         <nav id="nav-primary">
-            <ul>
-               <li>Some navigation</li>
-            </ul>
-         </nav>
          <div role="main">
             
             <div id="BxP" class="passus">

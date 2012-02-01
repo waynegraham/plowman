@@ -1,15 +1,22 @@
 @import url('http://fonts.googleapis.com/css?family=IM+Fell+DW+Pica|Meddon');
 @import url('https://raw.github.com/necolas/normalize.css/master/normalize.css');
 
+body {
+    font-family : 'IM Fell DW Pica', serif;
+    width: 960px;
+    margin-left:auto;
+    margin-right: auto;
+}
+
+br {display:none;}
+
 .passus {
     margin-bottom : 30px;
     width : 960px;
     /*font-family: 'UnifrakturCook', cursive;*/
-    font-family : 'IM Fell DW Pica', serif;
 }
 
-.passus h1 {
-    margin-left : 400px;
+h1 { text-align:center;
 }
 
 .punctus {
@@ -28,8 +35,6 @@
     font-size : 1.5em;
 }
 .line {
-    width: 960px;
-    border: 1px solid #c0c0c0;
 }
 
 .line-data {
