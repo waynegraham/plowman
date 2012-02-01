@@ -43,6 +43,13 @@ h1 { text-align:center;
     float: right;
 }
 
+.icon {
+    float:left;
+    width: 20px;
+    height: 20px;
+    margin:0;
+}
+
 .marginalia {
     margin-left : 20px;
     font-size : 12px;
