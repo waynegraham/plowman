@@ -65,6 +65,10 @@
             </body>
         </html>
     </xsl:template>
+    
+    <xsl:template match="del">
+        <span class="@rendition"><xsl:apply-templates /></span>
+    </xsl:template>
 
     <xsl:template match="div1">
         <div id="{@n}" class="passus">
@@ -108,7 +112,7 @@
         
         <div class="line clearfix" id="{@id}" data-line="{$linenumber}">
             <xsl:apply-templates select="preceding-sibling::marginalia[following-sibling::l[position()=1][@id=$lid]]"/>
-            <span class="line-data"><xsl:apply-templates/></span>
+            <span class="line-data"><xsl:value-of select="." /></span>
             <br/>
         </div>
     </xsl:template>
@@ -118,6 +122,13 @@
         <span class="punctus">
             <xsl:apply-templates select="."/>
         </span>
+    </xsl:template>
+    
+
+    <xsl:template match="note">
+        <div class="note">
+            <xsl:apply-templates />
+        </div>
     </xsl:template>
 
     <xsl:template match="marginalia">
