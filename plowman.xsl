@@ -15,7 +15,7 @@
             <meta name="description" content="{TEI.2/teiHeader/fileDesc/sourceDesc/p}"/>
             <link rel="stylesheet" href="css/style.css"/>
             <script src="http://static.scholarslab.org/javascripts/modernizr-2.0.6.js"/>
-            <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"/>
+            <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"/>
             <script src="javascripts/interactions.js" />
 
             <body>
@@ -96,7 +96,6 @@
             <xsl:apply-templates select="."/>
         </span>
     </xsl:template>
-    
 
     <xsl:template match="note">
         <div class="note">
@@ -109,7 +108,7 @@
             <!-- process the first part of the @id -->
         </xsl:variable>
         
-        <span class="marginalia {$witness}" id="{@id}">
+        <span class="marginalia {$witness}" id="{translate(@id, '.', '')}" data-id="{@id}">
             <xsl:value-of select="."/>
         </span>
     </xsl:template>
