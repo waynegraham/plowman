@@ -23,7 +23,7 @@ $(document).ready(function() {
       // Get the second class value, so we can associate a specific
       // marginalia to an icon.
       var classValue = $(this).attr('id');
-      var label = labelize(classValue.slice(0, 2));
+      var label = classValue.slice(0, 2);
 
       //console.log(label);
 
