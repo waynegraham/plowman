@@ -21,7 +21,7 @@
             <body>
                 <div id="container">
                     <header role="banner">
-                        <h1>Awesome Site</h1>
+                        <h1>Marginalia of <i>Piers Plowman</i></h1>
                     </header>
                     <nav id="nav-primary">
                         <ul>
@@ -32,7 +32,7 @@
                         <xsl:apply-templates select="TEI.2/text/body"/>
                     </div>
                     <footer>
-                        <p>&#169; 2011</p>
+                        <p>&#169; 2012</p>
                     </footer>
                 </div>
             </body>
@@ -53,6 +53,12 @@
         <h1>
             <xsl:value-of select="node()"/>
         </h1>
+    </xsl:template>
+    
+    <xsl:template match="note">
+        <em>
+            <xsl:apply-templates select="."/>
+        </em>
     </xsl:template>
 
     <xsl:template match="lb">
