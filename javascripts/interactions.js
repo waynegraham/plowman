@@ -1,14 +1,31 @@
 $(document).ready(function() {
 
-  var arr = ['Cr', 'KD'];
+  var arr = ['Cr', 'KD', 'LP'];
+  var arr2 = ['Cr1', 'Cr2', 'Cr3'];
 
   var Label = {
     labelize: function(label) {
-      if ($.inArray(label, arr)) {
-        label = label.charAt(0);
+
+      var two = label.slice(0, 2); // 2 chart version of label
+
+      var l = ''; // return value
+
+      // check if two character version is in arr array
+      if ($.inArray(two, arr) > -1) {
+        l = label.slice(0, 2);
       }
 
-      return label;
+      // check three char array
+      if ($.inArray(label, arr2) > -1) {
+        l = label;
+      }
+
+      // check if they're in either
+      if ($.inArray(two, arr) === -1 && $.inArray(label, arr2) === -1) {
+        l = label.charAt(0);
+      }
+
+      return l;
     }
   };
 
@@ -23,14 +40,12 @@ $(document).ready(function() {
       // Get the second class value, so we can associate a specific
       // marginalia to an icon.
       var classValue = $(this).attr('id');
-      var label = classValue.slice(0, 2);
-
-      //console.log(label);
+      var label = classValue.slice(0, 3);
 
 
       // Create an div with class 'icon' and append to the line.
-      //var icon = '<div class="icon ' + classValue + '">' + classValue.charAt(0) + '</div>';
-      var icon = '<div class="icon ' + classValue + '">' + Label.labelize(label); + '</div>';
+      var icon = '<div class="icon ' + classValue + '">';
+      icon += Label.labelize(label); + '</div>';
       $(this).parent().append(icon);
     });
   });
