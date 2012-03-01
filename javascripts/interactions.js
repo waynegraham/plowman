@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-  var arr = ['Cr', 'KD', 'LP'];
+  var arr = ['C2', 'KD'];
   var arr2 = ['Cr1', 'Cr2', 'Cr3'];
 
   var Label = {
