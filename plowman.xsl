@@ -56,9 +56,9 @@
     </xsl:template>
     
     <xsl:template match="note">
-        <em>
-            <xsl:apply-templates select="."/>
-        </em>
+        <span class="note">
+            <xsl:apply-templates />
+        </span>
     </xsl:template>
 
     <xsl:template match="lb">
@@ -95,6 +95,12 @@
             <br/>
         </div>
     </xsl:template>
+    
+    <xsl:template match="foreign">
+        <span class="foreign {@lang}">
+            <xsl:apply-templates /> 
+        </span>
+    </xsl:template>
 
     <!-- this is a hack; takes a seg (from the list of entities in the DTD) and makes a span punctus -->
     <xsl:template match="seg">
@@ -102,11 +108,9 @@
             <xsl:apply-templates select="."/>
         </span>
     </xsl:template>
-
-    <xsl:template match="note">
-        <div class="note">
-            <xsl:apply-templates />
-        </div>
+    
+    <xsl:template match="hi">
+        <span class="{@rend}"><xsl:value-of select="." /></span>
     </xsl:template>
 
     <xsl:template match="marginalia">
@@ -115,7 +119,12 @@
         </xsl:variable>
         
         <span class="marginalia {$witness}" id="{translate(@id, '.', '')}" data-id="{@id}">
-            <xsl:value-of select="."/>
+            <xsl:apply-templates select="foreign" />
+            <xsl:apply-templates select="note"/>
         </span>
+        
+        <xsl:apply-templates select="l"/>
     </xsl:template>
+    
+    
 </xsl:stylesheet>
