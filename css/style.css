@@ -64,7 +64,13 @@ h1 { text-align:center;
     float: left;
 }
 
-
+.note {
+    font-style : italic;
+    font-size : 16px;
+    line-height : 1.25;
+    display : block;
+    margin-top : 10px;
+}
 
 
 /* From HTML 5 Boilerplate. */
