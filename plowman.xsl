@@ -108,9 +108,25 @@
             <xsl:apply-templates select="."/>
         </span>
     </xsl:template>
-    
+        
     <xsl:template match="hi">
         <span class="{@rend}"><xsl:value-of select="." /></span>
+    </xsl:template>
+    
+    <xsl:template match="expan">
+        <span class="expan"><xsl:value-of select="."/></span>
+    </xsl:template>
+    
+    <xsl:template match="del">
+        <span class="del"><xsl:value-of select="."/></span>
+    </xsl:template>
+    
+    <xsl:template match="add">
+        <span class="add"><xsl:value-of select="."/></span>
+    </xsl:template>
+    
+    <xsl:template match="corr">
+        <span class="corr">[sic]</span>
     </xsl:template>
 
     <xsl:template match="marginalia">
@@ -121,6 +137,8 @@
         <span class="marginalia {$witness}" id="{translate(@id, '.', '')}" data-id="{@id}">
             <xsl:apply-templates select="foreign" />
             <xsl:apply-templates select="note"/>
+            <xsl:apply-templates select="rb"/>
+            <xsl:apply-templates select="ur"/>
         </span>
         
         <xsl:apply-templates select="l"/>

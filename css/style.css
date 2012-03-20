@@ -49,8 +49,14 @@ h1 { text-align:center;
     float:left;
     width: auto;
     height: 20px;
-    padding-right:10px;
+    padding-right:5px;
+    padding-left:5px;
+    padding-bottom: 5px;
     margin:0;
+    cursor: pointer;
+    background-color: white;
+    border-style: groove;
+    border-color: brown;
 }
 
 .marginalia {
@@ -62,6 +68,7 @@ h1 { text-align:center;
     font-size: 24px;
     max-width: 200px;
     float: left;
+    background-color: white;
 }
 
 .note {
@@ -72,6 +79,34 @@ h1 { text-align:center;
     margin-top : 10px;
 }
 
+.rb {
+    color : red;
+}
+
+.ur {
+    text-decoration : underline solid red;
+}
+
+.BinR {
+    border : 5px solid red;
+    padding : 5px;
+}
+
+.tr {
+    text-shadow : 0.1em red;
+}
+
+.del {
+    text-decoration : line-through;
+}
+
+.add {
+    color : gray;
+}
+
+.expan {
+    font-style : italic;
+}
 
 /* From HTML 5 Boilerplate. */
 .clearfix:before, .clearfix:after { content: ""; display: table; }
