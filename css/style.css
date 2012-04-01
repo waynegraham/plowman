@@ -112,3 +112,13 @@ h1 { text-align:center;
 .clearfix:before, .clearfix:after { content: ""; display: table; }
 .clearfix:after { clear: both; }
 .clearfix { *zoom: 1; }
+
+/* Style the tooltop when hovering on marginalia icons. */
+#tooltip {
+	position: absolute; /* Keep this to ensure the note stays with the icon. */
+	z-index: 3000; /* Keep this to ensure the tooltip stays above other content. */
+	border: 1px solid rgba(0,0,0,0.2);
+	background-color: rgba(255,255,255,0.9);
+	padding: 20px;
+	width:300px;
+}
