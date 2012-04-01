@@ -124,7 +124,7 @@
           <l id="L.P.34" n="KD.P.34">  And geten gold with here glee &raisedpoint; synneles I leue</l>
           <marginalia id="Cr1.P.35m" place="marginLeft" n="1v">Co<expan>m</expan>mon <lb/>Iestars<note>Cr1.P.35: Fol. 1v, left margin.</note></marginalia>
           <marginalia id="Cr2.P.35m" place="marginLeft" n="A.1r">Common Iestars.<note>Cr2.P.35: Fol. A.1r, left margin.</note></marginalia>
-          <marginalia id="Cr3.P.35m" place="marginLeft" n="1v">Common <sic>Iestas</sic><corr>Iesta[r]s</corr> .<note>Cr3.P.35: Fol. 1v, left margin.</note></marginalia>
+          <marginalia id="Cr3.P.35m" place="marginLeft" n="1v">Common <sic>Iestas</sic> <corr>(Iesta[r]s)</corr> .<note>Cr3.P.35: Fol. 1v, left margin.</note></marginalia>
           <l id="L.P.35" n="KD.P.35">  Ac iapers &amp; iangelers &raisedpoint; Iudas chylderen</l>
           <l id="L.P.36" n="KD.P.36">  Feynen hem fantasies &raisedpoint; and foles hem maketh</l> 
           <l id="L.P.37" n="KD.P.37">  And han here witte at wille &raisedpoint; to worche &#541;if þei sholde</l>
@@ -159,7 +159,7 @@
         <lg type="strophe">
           <marginalia id="Cr1.P.53m" place="marginLeft" n="1v">Hermets<note>Cr1.P.53: Fol. 1v, left margin.</note></marginalia>
           <marginalia id="Cr2.P.53m" place="marginLeft" n="A.1v">Hermets .<note>Cr2.P.53: Fol. A.1v, left margin.</note></marginalia>
-          <marginalia id="Cr3.P.53m" place="marginLeft" n="1v"><sic>Hermes</sic><corr>Herte[t]s</corr> .<note>Cr3.P.53: Fol. 1v, left margin.</note></marginalia>
+          <marginalia id="Cr3.P.53m" place="marginLeft" n="1v"><sic>Hermes</sic> <corr>(Herte[t]s)</corr> .<note>Cr3.P.53: Fol. 1v, left margin.</note></marginalia>
           <l id="L.P.53" n="KD.P.53">  ¶ Heremites on an heep &raisedpoint; with hoked staues</l>
           <l id="L.P.54" n="KD.P.54">  Wenten to walsyngham &raisedpoint; and here wenches after</l>
           <marginalia id="O.P.55m" place="marginLeft" hand="hand1" n="1v"><hi rend="ur">heremytis</hi><note>O.P.55: Hand 1, fol. 1v, left margin.</note></marginalia>
@@ -1738,7 +1738,7 @@
   <marginalia id="M.3.252" place="marginLeft" hand="handx" n="14r">¶<note>M.3.252: Hand X, fol. 14r, left margin.</note></marginalia>
   <marginalia id="F.3.252m" place="marginLeft" hand="handx" n="11v">&#9758;<note>F.3.252: Hand X, fol. 11v, left margin.</note></marginalia>
   <l id="L.3.256" n="KD.3.252">  ¶  Prestes and parsones &raisedpoint; þat plesynge desireth</l>
-  <marginalia id="F.3.253m" place="marginLeft" hand="handx" n="11v"><supplied reason="cropped">N</supplied>ote<note>F.3.253: Hand X, fol. 11v, left margin.</note></marginalia>
+  <marginalia id="F.3.253m" place="marginLeft" hand="handx" n="11v"><supplied reason="cropped">[N]</supplied>ote<note>F.3.253: Hand X, fol. 11v, left margin.</note></marginalia>
   <l id="L.3.257" n="KD.3.253">  That taketh Mede and mone &raisedpoint; for messes þat þei syngeth</l>
   <l id="L.3.258" n="KD.3.254">  Taketh here mede here &raisedpoint; as Mathew vs techeth</l>
   <marginalia id="Cr2.3.254&#945;m" place="marginLeft" n="D.3v">Mat .vi.<note>Cr2.3.254&#945;: Fol. D.3v, left margin.</note></marginalia>
@@ -1756,7 +1756,7 @@
   <marginalia id="M.3.259m1" place="marginLeft" hand="handx" n="14r"><foreign lang="lat">N<expan>ot</expan>a</foreign><note>M.3.259: Hand X, fol. 14r, left margin.</note></marginalia>
   <marginalia place="marginRight" hand="hand1" id="C.3.259m" n="4v">&raisedpoint; <hi rend="BinR">no<expan>ta</expan> &raisedpoint; </hi><note>C.3.259: Hand 1, fol. 4v, right margin.</note></marginalia>
   <l id="L.3.264" n="KD.3.259">  ¶  Ac reddestow neuere Regum &raisedpoint; þow recrayed Mede</l>
-  <marginalia id="G.3.265m" place="marginLeft" hand="hand1" n="12v"><supplied reason="cropped">s</supplied>a<del rend="overwritten" hand="handx">u</del><add place="inline" hand="handx">v</add>l<del rend="lined through" hand="hand1">e</del><note>G.3.265: Hand 1, fol. 12v, left margin (alterations to u and v possibly a different hand).</note></marginalia>
+  <marginalia id="G.3.265m" place="marginLeft" hand="hand1" n="12v"><supplied reason="cropped">[s]</supplied>a<del rend="overwritten" hand="handx">u</del><add place="inline" hand="handx">v</add>l<del rend="lined through" hand="hand1">e</del><note>G.3.265: Hand 1, fol. 12v, left margin (alterations to u and v possibly a different hand).</note></marginalia>
   <l id="L.3.265" n="KD.3.260">  Whi þe veniaunce fel &raisedpoint; on saul and on his children</l>
   <l id="L.3.266" n="KD.3.261">  God sent to saul &raisedpoint; bi samuel þe p<expan>ro</expan>phete</l>
   <l id="L.3.267" n="KD.3.262">  Þat agag of amaleke &raisedpoint; and al his peple aftre</l>
@@ -2464,7 +2464,7 @@
 </lg><lb/>
 <lg type="strophe">
   <marginalia id="M.5.71m1" place="marginLeft" hand="hand1" n="19v"><hi rend="ur"><foreign lang="lat">Luxuria</foreign></hi><note>M.5.71: Hand 1, fol. 19v, left margin.</note></marginalia>
-  <marginalia id="W.5.71m" place="marginLeft" hand="hand1" n="24v"><hi rend="BinR"><foreign lang="lat"><supplied reason="cropped">Lux</supplied>uria</foreign></hi><note>W.5.71: Hand 1, fol. 24v, left margin.</note></marginalia>
+  <marginalia id="W.5.71m" place="marginLeft" hand="hand1" n="24v"><hi rend="BinR"><foreign lang="lat"><supplied reason="cropped">[Lux]</supplied>uria</foreign></hi><note>W.5.71: Hand 1, fol. 24v, left margin.</note></marginalia>
   <marginalia id="Hm.5.71m1" place="marginRight" hand="hand2" n="129r"><hi rend="boxed"><foreign lang="lat"><hi rend="display">Lu<del rend="overwritten">r(?)</del><add place="inline" hand="hand2">x</add>uria</hi></foreign></hi><note>Hm.5.71: Hand 2, fol. 129r, right margin.</note></marginalia>
   <marginalia place="marginRight" hand="handx" id="C.5.71m" n="6r"><hi rend="BinR"><foreign lang="lat">Luxuria</foreign></hi><note>C.5.71: Hand X, fol. 6r, right margin.</note></marginalia>
   <marginalia id="G.5.71m" place="marginLeft" hand="hand1" n="17r"><foreign lang="lat">luxuria</foreign><note>G.5.71: Hand 1, fol. 17, left margin.</note></marginalia>
@@ -2483,7 +2483,7 @@
 <lg type="strophe">
   <marginalia id="L.5.75m" place="marginRight" hand="hand1" n="18r"><hi rend="BinR"><foreign lang="lat">Inuidia</foreign></hi><note>L.5.75: Hand 1, fol. 18r, right margin.</note></marginalia>
   <marginalia id="M.5.75m1" place="marginLeft" hand="hand1" n="19v"><hi rend="ur"><foreign lang="lat">Inuidia</foreign></hi><note>M.5.75: Hand 1, fol. 19v, left margin.</note></marginalia>
-  <marginalia id="W.5.75m" place="marginLeft" hand="hand1" n="24v"><hi rend="BinR"><foreign lang="lat"><supplied reason="cropped">Inu</supplied><hi rend="tr">idia</hi></foreign></hi><note>W.5.75: Hand 1, fol. 24v, left margin.</note></marginalia>
+  <marginalia id="W.5.75m" place="marginLeft" hand="hand1" n="24v"><hi rend="BinR"><foreign lang="lat"><supplied reason="cropped">[Inu]</supplied><hi rend="tr">idia</hi></foreign></hi><note>W.5.75: Hand 1, fol. 24v, left margin.</note></marginalia>
   <marginalia id="Hm.5.75m1" place="marginRight" hand="hand2" n="129r"><hi rend="boxed"><foreign lang="lat"><hi rend="display">Inuidia</hi></foreign></hi><note>Hm.5.75: Hand 2, fol. 129r, right margin.</note></marginalia>
   <marginalia place="marginRight" hand="handx"  id="C.5.75m" n="6r"><hi rend="BinR"><foreign lang="lat">Inuidia</foreign></hi><note>C.5.75: Hand X, fol. 6r, right margin.</note></marginalia>
   <marginalia id="G.5.75m" place="marginLeft" hand="hand1" n="17r"><foreign lang="lat">Inuidia</foreign><note>G.5.75: Hand 1, fol. 17r, lef margin.</note></marginalia>
@@ -2594,7 +2594,7 @@
 <lg type="strophe">
   <marginalia id="L.5.135m" place="marginLeft" hand="hand1" n="18v"><hi rend="BinR"><foreign lang="lat">Ira</foreign> ·</hi><note>L.5.135: Hand 1, fol. 18v, left margin.</note></marginalia>
   <marginalia id="M.5.135m1" place="marginLeft" hand="hand1" n="20v"><hi rend="BinR"><foreign lang="lat">Ira</foreign></hi><note>M.5.135: Hand 1, fol. 20v, left margin.</note></marginalia>
-  <marginalia id="W.5.135m1" place="marginLeft" hand="hand1" n="25v"><hi rend="BinR"><foreign lang="lat"><supplied reason="cropped">Ir</supplied>a</foreign></hi><note>W.5.135: Hand 1, fol. 25v, left margin.</note></marginalia>
+  <marginalia id="W.5.135m1" place="marginLeft" hand="hand1" n="25v"><hi rend="BinR"><foreign lang="lat"><supplied reason="cropped">[Ir]</supplied>a</foreign></hi><note>W.5.135: Hand 1, fol. 25v, left margin.</note></marginalia>
   <marginalia id="W.5.135m2" place="marginRight" hand="handx" n="25v"><foreign lang="lat">n<expan>ota</expan></foreign><note>W.5.135: Hand X, fol. 25v, right margin.</note></marginalia>
   <marginalia id="Hm.5.135m1" place="marginRight" hand="hand2" n="129v"><hi rend="boxed"><foreign lang="lat"><hi rend="display">I</hi>ra</foreign></hi><note>Hm.5.135: Hand 2, fol. 129v, right margin.</note></marginalia>
   <marginalia place="marginLeft" hand="handx" id="C.5.135m" n="6v"><hi rend="BinR">Ira</hi><note>C.5.135: Hand X, fol. 6v, left margin.</note></marginalia>
@@ -2705,14 +2705,14 @@
 </lg><lb/>
 <lg type="strophe">
   <marginalia id="L.5.188m" place="marginLeft" hand="hand1" n="19v"><hi rend="BinR"><foreign lang="lat">Auaricia</foreign> ·</hi><note>L.5.188: Hand 1, fol. 19v, left margin.</note></marginalia>
-  <marginalia id="W.5.188m" place="marginLeft" hand="hand1" n="26v"><hi rend="BinR"><foreign lang="lat"><supplied reason="cropped">Aua</supplied><hi rend="tr">ricia</hi></foreign></hi><note>W.5.188: Hand 1, fol. 26v, left margin.</note></marginalia>
+  <marginalia id="W.5.188m" place="marginLeft" hand="hand1" n="26v"><hi rend="BinR"><foreign lang="lat"><supplied reason="cropped">[Aua]</supplied><hi rend="tr">ricia</hi></foreign></hi><note>W.5.188: Hand 1, fol. 26v, left margin.</note></marginalia>
   <marginalia id="Hm.5.188m1" place="marginRight" hand="hand2" n="130v"><hi rend="boxed"><foreign lang="lat"><hi rend="display">Cupido · </hi></foreign></hi><note>Hm.5.188: Hand 2, fol. 130v, right margin.</note></marginalia>
   <marginalia place="marginRight" hand="handx" id="C.5.188m" n="6v"><hi rend="BinR"><foreign lang="lat">Auari<lb/>cia</foreign></hi><note>C.5.188: Hand X, fol. 6v, right margin.</note></marginalia>
   <marginalia id="O.5.188m" place="marginRight" hand="hand1" n="19r"><foreign lang="lat"><hi rend="ur">Auaricia</hi></foreign><note>O.5.188: Hand 1, fol. 19r, right margin.</note></marginalia>
   <marginalia id="C2.5.188m1" place="marginRight" hand="hand1" n="21v"><foreign lang="lat"><hi rend="ur">Auaricia</hi></foreign><note>C2.5.188: Hand 1, fol. 21v, right margin.</note></marginalia>
   <marginalia id="R.5.188m" place="marginLeft" hand="handx1" n="16v"><foreign lang="lat">descripcio avaritie</foreign><note>R.5.188: Hand X1 (15th-c contemporary), fol. 16v, left margin.</note></marginalia>
   <l id="L.5.190" n="KD.5.188">  ¶ And þanne cam coueytise &raisedpoint; can I hym nou&#541;te descryue</l>
-  <marginalia id="G.5.189m" place="marginLeft" hand="hand1" n="18v"><foreign lang="lat"><supplied reason="cropped">a</supplied>uaricia</foreign><note>G.5.189: Hand 1, fol. 18v, left margin.</note></marginalia>
+  <marginalia id="G.5.189m" place="marginLeft" hand="hand1" n="18v"><foreign lang="lat"><supplied reason="cropped">[a]</supplied>uaricia</foreign><note>G.5.189: Hand 1, fol. 18v, left margin.</note></marginalia>
   <marginalia id="Cr2.5.189m" place="marginRight" n="F.3r">Couetise .<note>Cr2.5.189: Fol. F.3r, right margin.</note></marginalia>
   <marginalia id="Cr3.5.189m" place="marginRight" n="23r">Couetise .<note>Cr3.5.189: Fol. 23r, right margin.</note></marginalia>
   <l id="L.5.191" n="KD.5.189">  So hungriliche and holwe &raisedpoint; sire henri hym loked</l>
@@ -3397,7 +3397,7 @@
   <l id="L.5.570" n="KD.5.551">  He is þe prestest payer &raisedpoint; þat pore men knoweth</l>
   <l id="L.5.571" n="KD.5.552">  He ne with-halt non hewe his hyre &raisedpoint; þat he ne hath it at euen</l>
   <l id="L.5.572" n="KD.5.553">  He is as low as a lombe &raisedpoint; and loueliche of speche</l>
-  <marginalia id="M.5.554m1" place="marginLeft" hand="hand3" n="26v"><expan abbr="musical pun">nota</expan> <foreign lang="lat">q<expan>u</expan>omo<expan>d</expan>o docet <sic>viam<lb/> viam</sic><corr>viam</corr> ad veritat<expan>em</expan></foreign><note>M.5.554: Hand 3, fol. 26v, left margin.</note></marginalia>
+  <marginalia id="M.5.554m1" place="marginLeft" hand="hand3" n="26v"><expan abbr="musical pun">nota</expan> <foreign lang="lat">q<expan>u</expan>omo<expan>d</expan>o docet <sic>viam<lb/> viam</sic> <corr>(viam)</corr> ad veritat<expan>em</expan></foreign><note>M.5.554: Hand 3, fol. 26v, left margin.</note></marginalia>
   <l id="L.5.573" n="KD.5.554">  And &#541;if &#541;e wilneth to wite &raisedpoint; where þat he dwelleth</l>
   <l id="L.5.574" n="KD.5.555">  I shal wisse &#541;ow witterly &raisedpoint; þe weye to his place</l>
 </lg><lb/>
@@ -3424,7 +3424,7 @@
   <marginalia id="M.5.561m2" place="marginRight" hand="handx6" n="27r"><foreign lang="lat">p<expan>ri</expan>mu<expan>m</expan> mandatu<expan>m</expan></foreign><note>M.5.561: Hand X6, fol. 27r, right margin.</note></marginalia>
   <marginalia id="Cr1.5.561m" place="marginLeft" n="29v">How piers <lb/>teachethe <lb/>the waye <lb/>to trewth<note>Cr1.5.561: Fol. 29v, left margin.</note></marginalia>
   <l id="L.5.581" n="KD.5.561">  &#540;e mote go þourgh mekenesse &raisedpoint; bothe men and wyues</l>
-  <marginalia id="C2.5.562m1" place="marginRight" hand="hand1" n="27v"><hi rend="ur">ten <sic>comaiu<expan>n</expan>dement<expan>es</expan></sic><corr>coma[u]<expan>n</expan>dement<expan>es</expan></corr></hi><note>C2.5.562: Hand 1, fol. 27v, right margin.</note></marginalia>
+  <marginalia id="C2.5.562m1" place="marginRight" hand="hand1" n="27v"><hi rend="ur">ten <sic>comaiu<expan>n</expan>dement<expan>es</expan></sic> <corr>(coma[u]<expan>n</expan>dement<expan>es</expan>)</corr></hi><note>C2.5.562: Hand 1, fol. 27v, right margin.</note></marginalia>
   <marginalia id="Cr2.5.562m" place="marginLeft" n="H.1v">How Pi=<lb/>ers tea=<lb/>cheth the<lb/> waye to<lb/> trueth .<note>Cr2.5.562: Fol. H.1v, left margin.</note></marginalia>
   <marginalia id="Cr3.5.562m" place="marginLeft" n="29v">How Pi=<lb/>ers tea=<lb/>cheth the<lb/> waye to<lb/> trueth .<note>Cr3.5.562: Fol. 29v, left margin.</note></marginalia>
   <l id="L.5.582" n="KD.5.562">  Tyl &#541;e come in-to conscience þat cryst wite þe sothe</l>
@@ -3579,7 +3579,7 @@
 <lb/>
 <lg type="strophe">
   <marginalia id="F.6.1m1" place="marginLeft" hand="handx" n="23r">c<expan>apitulum</expan><note>F.6.1: Hand X, fol. 23r, left margin.</note></marginalia>
-  <marginalia id="F.6.1m2" place="marginRight" hand="handx" n="23r"><foreign lang="lat">passus sextu<supplied reason="cropped">s</supplied></foreign><note>F.6.1: Hand X (secretary), fol. 23r, right margin. Marks where passus begins in other manuscripts.</note></marginalia>
+  <marginalia id="F.6.1m2" place="marginRight" hand="handx" n="23r"><foreign lang="lat">passus sextu<supplied reason="cropped">[s]</supplied></foreign><note>F.6.1: Hand X (secretary), fol. 23r, right margin. Marks where passus begins in other manuscripts.</note></marginalia>
   <l id="L.6.1" n="KD.6.1">  This were a wikked way &raisedpoint; but who-so hadde a gyde</l>
   <l id="L.6.2" n="KD.6.2">  That wolde folwen vs eche a fote &raisedpoint; þus þis folke he<expan>m</expan> mened</l>
   <l id="L.6.3" n="KD.6.3">  Quat&#541; Perkyn þe plouman &raisedpoint; bi seynt Peter of Rome</l>
@@ -3812,7 +3812,7 @@
 <lg type="strophe">
   <l id="L.6.124" n="KD.6.121">  ¶ Tho were faitoures aferde &raisedpoint; and feyned hem blynde</l>
   <marginalia id="M.6.126m" place="marginLeft" hand="hand3" n="30r"><expan abbr="musical pun">nota</expan><note>M.6.126: Hand 3, fol. 30r, left margin.</note></marginalia>
-  <marginalia id="M.6.122m2" place="marginRight" hand="hand3" n="30r"><expan abbr="musical pun">nota</expan> <foreign lang="lat">q<expan>u</expan>omo<expan>d</expan>o truffatores Fingu<expan>n</expan>t se<lb/> Fore <sic>mitulat<expan>i</expan></sic><corr>m[uti]lat<expan>i</expan></corr> &amp; Ceci</foreign><note>M.6.126: Hand 3, fol. 30r, right margin.</note></marginalia>
+  <marginalia id="M.6.122m2" place="marginRight" hand="hand3" n="30r"><expan abbr="musical pun">nota</expan> <foreign lang="lat">q<expan>u</expan>omo<expan>d</expan>o truffatores Fingu<expan>n</expan>t se<lb/> Fore <sic>mitulat<expan>i</expan></sic> <corr>(m[uti]lat<expan>i</expan>)</corr> &amp; Ceci</foreign><note>M.6.126: Hand 3, fol. 30r, right margin.</note></marginalia>
   <l id="L.6.125" n="KD.6.122">  Somme leyde here legges aliri as suche loseles conneth</l>
   <l id="L.6.126" n="KD.6.123">  And made her mone to pieres &raisedpoint; and preyde hym of grace</l>
   <marginalia place="marginRight" hand="handx" id="C.6.124m" n="9r"> - <note>C.6.124: Hand X, fol. 9r, right margin.</note></marginalia>
@@ -4354,7 +4354,7 @@
   <l id="L.7.68" n="KD.7.63">  And lyuen in loue and in lawe &raisedpoint; for her lowe hertis</l>
   <marginalia id="W.7.64m" place="marginRight" hand="handx" n="42r"><foreign lang="lat">n<expan>ota</expan></foreign><note>W.7.64: Hand X, fol. 42r, right margin.</note></marginalia>
   <marginalia id="Cr1.7.64m" place="marginRight" n="37r">Of geu=<lb/>yng of Al=<lb/>mes . <note>Cr1.7.64: Fol. 37r, right margin.</note></marginalia>
-  <marginalia id="Cr2.7.64m" place="marginRight" n="K.1r">Of g<supplied source="Cr1" reason="damaged">euyng<lb/></supplied> of alm<supplied source="Cr1" reason="damaged">es .</supplied><note>Cr2.7.64: Fol. K.1r, right margin. The copy of Cr2 from which transcription was made has water damage on this page.</note></marginalia>
+  <marginalia id="Cr2.7.64m" place="marginRight" n="K.1r">Of g<supplied source="Cr1" reason="damaged">[euyng]<lb/></supplied> of alm<supplied source="Cr1" reason="damaged">[es .]</supplied><note>Cr2.7.64: Fol. K.1r, right margin. The copy of Cr2 from which transcription was made has water damage on this page.</note></marginalia>
   <marginalia id="Cr3.7.64m" place="marginRight" n="37r">Of giui<expan>n</expan>g<lb/> of almes .<note>Cr3.7.64: Fol. 37r, right margin.</note></marginalia>
   <l id="L.7.69" n="KD.7.64">  Haueth þe same absolucioun &raisedpoint; þat sent was to peres</l>
 </lg><lb/>
@@ -4424,7 +4424,7 @@
 <lg type="strophe">
   <l id="L.7.96" n="KD.7.87">  ¶ Late vsage be &#541;owre solace &raisedpoint; of seyntes lyues redyng</l>
   <l id="L.7.97" n="KD.7.88">  Þe boke banneth beggarie &raisedpoint; and blameth hem in þis manere</l>
-  <marginalia id="Cr2.7.89m" place="marginLeft" n="K.1v"><supplied source="Cr3" reason="damaged">Psal.</supplied> 37<note>Cr2.7.89: Fol. K.1v, left margin. Again this page shows water damage.</note></marginalia>
+  <marginalia id="Cr2.7.89m" place="marginLeft" n="K.1v"><supplied source="Cr3" reason="damaged">[Psal.]</supplied> 37<note>Cr2.7.89: Fol. K.1v, left margin. Again this page shows water damage.</note></marginalia>
   <marginalia id="Cr3.7.89m" place="marginLeft" n="37v">Psal. .37<note>Cr3.7.89: Fol. 37v, left margin.</note></marginalia>
   <l id="L.7.98" n="KD.7.89">  Iunior fui etenim senui &raisedpoint; et non vidi iustum derelictum nec semen eius &amp;c</l>
 </lg><lb/>
@@ -5068,7 +5068,7 @@
 </lg><lb/>
 <lg type="strophe">
   <marginalia id="L.9.68-69m1" place="marginLeft" hand="handx" n="35v">X<note>L.9.68-69: Hand X, fol. 35v, left margin.</note></marginalia>
-  <marginalia id="L.9.68-69m2" place="marginLeft" hand="handx2" n="35v">how bishops <lb/>shoulen <sic>bestw</sic><corr>best[o]w</corr> <lb/>their gud<expan>es</expan><note>L.9.68-69: Hand X2 (16th C), fol. 35v, left margin.</note></marginalia>
+  <marginalia id="L.9.68-69m2" place="marginLeft" hand="handx2" n="35v">how bishops <lb/>shoulen <sic>bestw</sic> <corr>(best[o]w)</corr> <lb/>their gud<expan>es</expan><note>L.9.68-69: Hand X2 (16th C), fol. 35v, left margin.</note></marginalia>
   <marginalia id="M.9.68-69m1" place="marginLeft" hand="handx1" n="38v"><foreign lang="lat">n<expan>ota</expan> b<expan>e</expan>n<expan>e</expan></foreign><note>M.9.68-69: Hand X1, fol. 38v, left margin.</note></marginalia>
   <l id="L.9.71" n="KD.9.68-69">   ¶ Foles þat fauten Inwitte &raisedpoint; I fynde þat holicherche</l>
   <marginalia id="L.9.70m" place="marginRight" hand="handx" n="35v">X<note>L.9.70: Hand X, fol. 35v, right margin.</note></marginalia>
@@ -6058,11 +6058,11 @@
   <marginalia id="W.10.313m" place="marginRight" hand="handx" n="56v"><foreign lang="lat">n<expan>ota</expan></foreign><note>W.10.313: Hand X, fol. 56v, right margin.</note></marginalia>
   <l id="L.10.315" n="KD.10.313">  A priker on a palfray &raisedpoint; fro manere to maner</l>
   <marginalia id="W.10.314m" place="marginRight" hand="handx" n="56v"><foreign lang="lat">n<expan>ota</expan></foreign><note>W.10.314: Hand X, fol. 56v, right margin.</note></marginalia>
-  <marginalia id="G.10.314m" place="marginLeft" hand="hand3" n="42v"><supplied reason="partly cropped"><unclear>A trewe</unclear></supplied><note>G.10.314: Hand 3, fol. 42v, left margin. The words are also repeated top left.</note></marginalia>
+  <marginalia id="G.10.314m" place="marginLeft" hand="hand3" n="42v"><supplied reason="partly cropped"><unclear>[A trewe]</unclear></supplied><note>G.10.314: Hand 3, fol. 42v, left margin. The words are also repeated top left.</note></marginalia>
   <l id="L.10.316" n="KD.10.314">  An heep of houndes at his ers &raisedpoint; as he a lorde were</l>
   <marginalia id="M.10.315m1" place="marginRight" hand="hand3" n="45r"><expan abbr="musical pun">nota</expan> <foreign lang="lat"><expan>con</expan><expan>tra</expan></foreign> kneling off<lb/> the knave<note>M.10.315: Hand 3, fol. 45r, right margin.</note></marginalia>
   <marginalia id="W.10.315m" place="marginRight" hand="handx" n="56v"><foreign lang="lat">n<expan>ota</expan></foreign><note>W.10.315: Hand X, fol. 56v, right margin.</note></marginalia>
-  <marginalia id="G.10.315m" place="marginLeft" hand="hand1" n="42v"><hi rend="boxed">p<expan>ro</expan>fycy off <lb/><supplied reason="cropped">r</supplied>elygyon</hi><note>G.10.315: Hand 1, fol. 42v, left margin.</note></marginalia>
+  <marginalia id="G.10.315m" place="marginLeft" hand="hand1" n="42v"><hi rend="boxed">p<expan>ro</expan>fycy off <lb/><supplied reason="cropped">[r]</supplied>elygyon</hi><note>G.10.315: Hand 1, fol. 42v, left margin.</note></marginalia>
   <l id="L.10.317" n="KD.10.315">  And but if his knaue knele &raisedpoint; þat shal his cuppe brynge</l>
   <marginalia id="W.10.316m" place="marginRight" hand="handx" n="56v"><foreign lang="lat">n<expan>ota</expan></foreign><note>W.10.316: Hand X, fol. 56v, right margin.</note></marginalia>
   <l id="L.10.318" n="KD.10.316">  He loureth on hym and axeth hym &raisedpoint; who tau&#541;te hym curteisye</l>
@@ -6754,7 +6754,7 @@
   <marginalia id="R.11.172m" place="marginLeft" hand="handx" n="49v">I lefte here<note>R.11.172: Hand X (16th-c), fol. 49v, left margin. Same hand as the note on 43v (KD.10.289) marking where reader began.</note></marginalia>
   <l id="L.11.164" n="KD.11.172">  Or any science vnder sonne &raisedpoint; þe seuene artz and alle</l>
   <marginalia id="L.11.173m" place="marginLeft" hand="handx" n="46r">X<note>L.11.173: Hand X, fol. 46r, left margin.</note></marginalia>
-  <marginalia id="M.11.173m1" place="marginRight" hand="hand3" n="50r"><expan abbr="musical pun">nota</expan> <foreign lang="lat">q<expan>uia</expan> mag<expan>is</expan> p<expan>ro</expan>pt<expan>er</expan> amore<expan>m</expan><lb/> q<expan>ua</expan>m pecunie stipe<expan>n</expan>d<supplied reason="cropped">ium</supplied></foreign><note>M.11.173: Hand 3, fol. 50r, right margin.</note></marginalia>
+  <marginalia id="M.11.173m1" place="marginRight" hand="hand3" n="50r"><expan abbr="musical pun">nota</expan> <foreign lang="lat">q<expan>uia</expan> mag<expan>is</expan> p<expan>ro</expan>pt<expan>er</expan> amore<expan>m</expan><lb/> q<expan>ua</expan>m pecunie stipe<expan>n</expan>d<supplied reason="cropped">[ium]</supplied></foreign><note>M.11.173: Hand 3, fol. 50r, right margin.</note></marginalia>
   <l id="L.11.165" n="KD.11.173">  But if þei ben lerned for owre lordes loue &raisedpoint; loste is alle þe tyme</l>
   <l id="L.11.166" n="KD.11.174">  For no cause to cacche siluer þere-by &raisedpoint; ne to be called a mayster</l>
   <l id="L.11.167" n="KD.11.175">  But al for loue of owre lorde &raisedpoint; and þe bet to loue þe peple</l>
@@ -7436,7 +7436,7 @@
   <marginalia id="L.12.74m" place="marginLeft" hand="handcorr" n="50r">+<note>L.12.74: Corrector, fol. 50r, left margin.</note></marginalia>
   <l id="L.12.81" n="KD.12.74">  Þat what woman were in auoutrie taken &raisedpoint; were she riche or pore</l>
   <l id="L.12.82" n="KD.12.75">  With stones men shulde hir stryke &raisedpoint; and stone hir to deth</l>
-  <marginalia id="M.12.76m1" place="marginLeft" hand="hand3" n="54v"><expan abbr="musical pun">nota</expan> <foreign lang="lat">adult<expan>eriu</expan>m <sic>Muler<expan>is</expan></sic><corr>Mul[i]er<expan>is</expan></corr></foreign><note>M.12.76: Hand 3, fol. 54v, left margin.</note></marginalia>
+  <marginalia id="M.12.76m1" place="marginLeft" hand="hand3" n="54v"><expan abbr="musical pun">nota</expan> <foreign lang="lat">adult<expan>eriu</expan>m <sic>Muler<expan>is</expan></sic> <corr>(Mul[i]er<expan>is</expan>)</corr></foreign><note>M.12.76: Hand 3, fol. 54v, left margin.</note></marginalia>
   <l id="L.12.83" n="KD.12.76">  A womman as we fynden &raisedpoint; was gulty of þat dede</l>
   <l id="L.12.84" n="KD.12.77">  Ac cryste of his curteisye &raisedpoint; þorw clergye hir saued</l>
   <marginalia place="marginLeft" hand="handx" id="C.12.78m" n="16v"> - <note>C.12.78: Hand X, fol. 16v, left margin.</note></marginalia>
@@ -7582,7 +7582,7 @@
   <l id="L.12.154" n="KD.12.155">  Why I haue tolde al þis &raisedpoint; I toke ful gode hede</l>
   <l id="L.12.155" n="KD.12.156">  How þow contraryedest clergye &raisedpoint; with crabbed wordes</l>
   <l id="L.12.156" n="KD.12.157">  How þat lewed men li&#541;tloker &raisedpoint; þan lettred were saued</l>
-  <marginalia id="F.12.158m" place="marginRight" hand="handx" n="48r">a<supplied reason="worn">n</supplied><add place="supralinear" hand="handx">g</add><supplied reason="worn">e</supplied>l<note>F.12.158: Hand X, fol. 48r, right margin. Possibly identifying the speaker. The text of this line in F is "&amp; Clerkys / þan cleer wittyd men / of þe cristene peple."</note></marginalia>
+  <marginalia id="F.12.158m" place="marginRight" hand="handx" n="48r">a<supplied reason="worn">[n]</supplied><add place="supralinear" hand="handx">g</add><supplied reason="worn">[e]</supplied>l<note>F.12.158: Hand X, fol. 48r, right margin. Possibly identifying the speaker. The text of this line in F is "&amp; Clerkys / þan cleer wittyd men / of þe cristene peple."</note></marginalia>
   <l id="L.12.157" n="KD.12.158">  Þan clerkes or kynde-witted men &raisedpoint; of crystene peple</l>
 </lg><lb/>
 <lg type="strophe">
@@ -8236,7 +8236,7 @@
 </lg><lb/>
 <lg type="strophe">
   <l id="L.13.207" n="KD.13.205">  ¶ Þat is soth seyde conscience &raisedpoint; so me god helpe</l>
-  <marginalia id="M.13.206m1" place="marginRight" hand="hand3" n="61r"><expan abbr="musical pun">nota</expan> that paciens must<lb/> be <sic>p<expan>ar</expan>ty</sic><corr>c<expan>ar</expan>tyng</corr> Felow w<expan>i</expan>t<expan>h</expan> Clergie<note>M.13.206: Hand 3, fol. 61r, right margin.</note></marginalia>
+  <marginalia id="M.13.206m1" place="marginRight" hand="hand3" n="61r"><expan abbr="musical pun">nota</expan> that paciens must<lb/> be <sic>p<expan>ar</expan>ty</sic> <corr>(c<expan>ar</expan>tyng)</corr> Felow w<expan>i</expan>t<expan>h</expan> Clergie<note>M.13.206: Hand 3, fol. 61r, right margin.</note></marginalia>
   <l id="L.13.208" n="KD.13.206">  If pacience be owre partyng felawe &raisedpoint; and pryue with vs bothe</l>
   <l id="L.13.209" n="KD.13.207">  There nys wo in þis worlde &raisedpoint; þat we ne shulde amende</l>
   <l id="L.13.210" n="KD.13.208">  And confourmen Kynges to pees &raisedpoint; and al-kynnes londes &raisedpoint;</l>
@@ -8634,7 +8634,7 @@
   <l id="L.14.17" n="KD.14.16">  ¶ And I shal kenne þe quod conscience &raisedpoint; of contricioun to make</l>
   <l id="L.14.18" n="KD.14.17">  Þat shal clawe þi cote &raisedpoint; of alkynnes filthe</l>
   <l id="L.14.19" n="KD.14.17&agr;">  Cordis contricio &amp;c</l>
-  <marginalia id="M.14.18m1" place="marginRight" hand="hand3" n="64r"><foreign lang="lat"><sic><expan>decima</expan></sic><corr><expan>[vn]decima</expan></corr> disc<expan>ri</expan>pc<expan>i</expan>o de</foreign><lb/> dowell<note>M.14.18: Hand 3, fol. 64r, right margin.</note></marginalia>
+  <marginalia id="M.14.18m1" place="marginRight" hand="hand3" n="64r"><foreign lang="lat"><sic><expan>decima</expan></sic> <corr>(<expan>[vn]decima</expan>)</corr> disc<expan>ri</expan>pc<expan>i</expan>o de</foreign><lb/> dowell<note>M.14.18: Hand 3, fol. 64r, right margin.</note></marginalia>
   <l id="L.14.20" n="KD.14.18">  Dowel wasshen it and wryngen it &raisedpoint; þorw a wys confessour</l>
   <l id="L.14.21" n="KD.14.18&agr;">  Oris confessio &amp;c</l>
   <l id="L.14.22" n="KD.14.19">  Dobet shal beten it and bouken it &raisedpoint; as bri&#541;te as any scarlet</l>
@@ -9304,7 +9304,7 @@
   <l id="L.15.67" n="KD.15.63">  Pulte out of paradys &raisedpoint; Adam and Eue</l>
   <l id="L.15.68" n="KD.15.63&agr;">  Sciencie appetitus hominem inmortalitatis gloriam spoliauit</l>
   <l id="L.15.69" n="KD.15.64">  And ri&#541;te as hony is yuel to defye &raisedpoint; and engleymeth þe mawe</l>
-  <marginalia id="L.15.65m" place="marginRight" hand="handx2" n="63r"><foreign lang="lat">non plus sap<expan>er</expan>e q<expan>ua</expan><supplied reason="cropped">m</supplied> <lb/>oportet</foreign><note>L.15.65: Hand X2 (16th C), fol. 63r, right margin.</note></marginalia>
+  <marginalia id="L.15.65m" place="marginRight" hand="handx2" n="63r"><foreign lang="lat">non plus sap<expan>er</expan>e q<expan>ua</expan><supplied reason="cropped">[m]</supplied> <lb/>oportet</foreign><note>L.15.65: Hand X2 (16th C), fol. 63r, right margin.</note></marginalia>
   <l id="L.15.70" n="KD.15.65">  Ri&#541;t so þat þorw resoun wolde þe rote knowe</l>
   <marginalia id="M.15.66m1" place="marginRight" hand="hand3" n="70r"><expan abbr="musical pun">nota</expan> <foreign lang="lat">no<expan>n</expan> plus sap<expan>er</expan>e q<expan>uam</expan> oportet</foreign><note>M.15.66: Hand 3, fol. 70r, right margin.</note></marginalia>
   <l id="L.15.71" n="KD.15.66">  Of god and of his grete my&#541;tes &raisedpoint; his graces it letteth</l>
@@ -9471,7 +9471,7 @@
   <l id="L.15.158" n="KD.15.149">  ¶ What is charite quod I þo &raisedpoint; a childissh þinge he seide</l>
   <marginalia id="W.15.149&#945;m" place="marginLeft" hand="hand1" n="89r"><hi rend="rb"><hi rend="BinR"><foreign lang="lat">quid est <lb/>caritas</foreign></hi></hi><note>W.15.149&#945;: Hand 1, fol. 89r, left margin.</note></marginalia>
   <marginalia id="Cr2.15.149&#945;m" place="marginLeft" n="V.3v">Mat .18.<note>Cr2.15.149&#945;: Fol. V.3v, left margin.</note></marginalia>
-  <marginalia id="Cr3.15.149&#945;m" place="marginLeft" n="79v"><sic>Mata</sic><corr>Mat</corr> .18,<note>Cr3.15.149&#945;: Fol. 79v, left margin.</note></marginalia>
+  <marginalia id="Cr3.15.149&#945;m" place="marginLeft" n="79v"><sic>Mata</sic> <corr>(Mat)</corr> .18,<note>Cr3.15.149&#945;: Fol. 79v, left margin.</note></marginalia>
   <l id="L.15.159" n="KD.15.149&agr;">  Nisi efficiamini sicut paruuli &raisedpoint; non intrabitis in regnum celorum</l>
   <marginalia place="marginLeft" hand="handx" id="C.15.150m1" n="21r"> - <note>C.15.150: Hand X, fol. 21r, left margin.</note></marginalia>
   <marginalia place="marginRight" hand="handx" id="C.15.150m2" n="21r"> - <note>C.15.150: Hand X, fol. 21r, right margin.</note></marginalia>
@@ -9480,7 +9480,7 @@
 </lg><lb/>
 <lg type="strophe">
   <l id="L.15.161" n="KD.15.151">  ¶ Where shulde men fynde such a frende &raisedpoint; with so fre an herte</l>
-  <marginalia id="L.15.152m" place="marginRight" hand="handx2" n="64r"><foreign lang="lat">no<expan>ta</expan></foreign> the name of thaucto<supplied reason="cropped">r</supplied><note>L.15.152: Hand X2 (16th C), fol. 64r, right margin.</note></marginalia>
+  <marginalia id="L.15.152m" place="marginRight" hand="handx2" n="64r"><foreign lang="lat">no<expan>ta</expan></foreign> the name of thaucto<supplied reason="cropped">[r]</supplied><note>L.15.152: Hand X2 (16th C), fol. 64r, right margin.</note></marginalia>
   <marginalia id="M.15.152m1" place="marginRight" hand="hand5" n="71r"><hi rend="ul">longe will</hi><note>M.15.152: Hand 5, fol. 71r, right margin.</note></marginalia>
   <marginalia id="O.15.152m" place="marginLeft" hand="hand1" n="62v"><hi rend="ur">Longelb/> wille</hi><note>O.15.152: Hand 1, fol. 62v, left margin.</note></marginalia>
   <marginalia id="C2.15.152m1" place="marginRight" hand="hand2" n="72v">Longe Will<note>C2.15.152: Hand 2, fol. 72v, right margin.</note></marginalia>
@@ -10884,7 +10884,7 @@
   <l id="L.17.150" n="KD.17.151&agr;">  Qui conceptus est de spiritu sancto &amp;c</l>
   <l id="L.17.151" n="KD.17.152">  Þe fader is þanne as a fust &raisedpoint; with fynger to touche</l>
   <marginalia id="Cr2.17.152&#945;m" place="marginLeft" n="Aa.1v">Iohn .xii<note>Cr2.17.152&#945;: Fol. Aa.1v, left margin.</note></marginalia>
-  <marginalia id="Cr3.17.152&#945;m" place="marginLeft" n="93v"><supplied source="Cr2" reason="damage">Iohn</supplied> .xii<note>Cr3.17.152&#945;: Fol. 93v, left margin. There is a hole here in the paper of the copy from which transcription was made.</note></marginalia>
+  <marginalia id="Cr3.17.152&#945;m" place="marginLeft" n="93v"><supplied source="Cr2" reason="damage">[Iohn]</supplied> .xii<note>Cr3.17.152&#945;: Fol. 93v, left margin. There is a hole here in the paper of the copy from which transcription was made.</note></marginalia>
   <l id="L.17.152" n="KD.17.152&agr;">  Quia omnia traham ad me ipsum &amp;c</l>
   <l id="L.17.153" n="KD.17.153">  Al þat þe paume parceyueth &raisedpoint; profitable to fele</l>
   <l id="L.17.154" n="KD.17.154">  Thus ar þei alle but one &raisedpoint; as it an hande were</l>
@@ -11131,7 +11131,7 @@
   <l id="L.17.321" n="KD.17.320">  His sorwe is satisfaccioun for hym þat may nou&#541;te paye</l>
 </lg><lb/>
 <lg type="strophe">
-  <marginalia id="L.17.321m" place="marginRight" hand="hand1x" n="76r"><foreign lang="lat">Fum<expan>us</expan> Mulier &amp; stillicidia <lb/> Expellu<expan>n</expan>t ho<expan>m</expan>i<expan>n</expan>em a domo p<expan>ro</expan><supplied reason="cropped">verbia</supplied></foreign><note>L.17.321: Hand 1(?), fol. 76r, right margin.</note></marginalia>
+  <marginalia id="L.17.321m" place="marginRight" hand="hand1x" n="76r"><foreign lang="lat">Fum<expan>us</expan> Mulier &amp; stillicidia <lb/> Expellu<expan>n</expan>t ho<expan>m</expan>i<expan>n</expan>em a domo p<expan>ro</expan><supplied reason="cropped">[verbia]</supplied></foreign><note>L.17.321: Hand 1(?), fol. 76r, right margin.</note></marginalia>
   <marginalia id="M.17.321m1" place="marginLeft" hand="hand3" n="85v"><expan abbr="musical pun">nota</expan> a wikkyd wyff<note>M.17.321: Hand 3, fol. 85v, left margin.</note></marginalia>
   <marginalia place="marginLeft" hand="handx" id="C.17.321m" n="25v">T<note>C.17.321: Hand X, fol. 25v, left margin.</note></marginalia>
   <marginalia id="Cr2.17.321m" place="marginRight" n="Aa.4r">Thre thin<lb/>ges driue<lb/> a ma<expan>n</expan> oute<lb/> of hys<lb/> house<note>Cr2.17.321: Fol. Aa.4r, right margin.</note></marginalia>
@@ -11361,7 +11361,7 @@
   <l id="L.18.114" n="KD.18.110">  ¶ What for fere of þis ferly &raisedpoint; &amp; of þe fals iuwes</l>
   <marginalia id="F.18.111m" place="marginRight" type="gloss" hand="hand1" n="77r">to dessend t<note>F.18.111: Hand 1, fol. 77r, right margin. Rest cropped.</note></marginalia>
   <l id="L.18.115" n="KD.18.111">  I drowe me in þat derkenesse &raisedpoint; to decendit ad inferna</l>
-  <marginalia id="F.18.112m" place="marginRight" hand="hand1" n="77r">s<expan>e</expan>c<expan>un</expan>d<expan>u</expan>m sc<expan>ri</expan>p<supplied reason="cropped">turas</supplied><note>F.18.112: Hand 1, fol. 77r, right margin.</note></marginalia>
+  <marginalia id="F.18.112m" place="marginRight" hand="hand1" n="77r">s<expan>e</expan>c<expan>un</expan>d<expan>u</expan>m sc<expan>ri</expan>p<supplied reason="cropped">[turas]</supplied><note>F.18.112: Hand 1, fol. 77r, right margin.</note></marginalia>
   <l id="L.18.116" n="KD.18.112">  And þere I sawe sothely &raisedpoint; secundum scripturas</l>
   <l id="L.18.117" n="KD.18.113">  Out of þe west coste &raisedpoint; a wenche as me thou&#541;te</l>
   <l id="L.18.118" n="KD.18.114">  Cam walkynge in þe wey &raisedpoint; to helle-ward she loked</l>
@@ -11545,7 +11545,7 @@
   <l id="L.18.240" n="KD.18.235">  That such a barne was borne &raisedpoint; in bethleem Citee</l>
   <l id="L.18.241" n="KD.18.236">  Þat mannes soule sholde saue &raisedpoint; &amp; synne destroye</l>
   <l id="L.18.242" n="KD.18.237">  And alle þe elementz quod þe boke &raisedpoint; her-of bereth witnesse</l>
-  <marginalia id="F.18.238m" place="marginRight" hand="handx" n="79r">heven or elemen<supplied reason="cropped">t</supplied><note>F.18.238: Hand X (late 15th-early 16th-c), fol. 79r, right margin, corresponding to underline "walkene" in text.</note></marginalia>
+  <marginalia id="F.18.238m" place="marginRight" hand="handx" n="79r">heven or elemen<supplied reason="cropped">[t]</supplied><note>F.18.238: Hand X (late 15th-early 16th-c), fol. 79r, right margin, corresponding to underline "walkene" in text.</note></marginalia>
   <l id="L.18.243" n="KD.18.238">  Þat he was god þat al wrou&#541;te &raisedpoint; þe walkene firste shewed</l>
   <l id="L.18.244" n="KD.18.239">  Þo that weren in heuene &raisedpoint; token stella comata</l>
   <l id="L.18.245" n="KD.18.240">  And tendeden hir as a torche &raisedpoint; to reuerence his birthe</l>
@@ -13134,7 +13134,7 @@
 </lg><lb/>
 <lg type="strophe">
   <marginalia id="O.20.362m" place="marginRight" hand="hand1" n="88r"><hi rend="ur">. Frere co<expan>n</expan>fesso<expan>ur</expan> .</hi><note>O.20.362: Hand 1, fol. 88r, right margin.</note></marginalia>
-  <marginalia id="S.20.362m" place="marginLeft" hand="handx" n="88v">T<supplied reason="cropped">omas</supplied> Hewlet Mr Tomas Hewlet Mr Tomas<note>S.20.362: Hand X (Thomas Hewlet), fol. 88v, left margin. Written vertically bottom to top along with several other erased pen trials in a different ink.</note></marginalia>
+  <marginalia id="S.20.362m" place="marginLeft" hand="handx" n="88v">T<supplied reason="cropped">[omas]</supplied> Hewlet Mr Tomas Hewlet Mr Tomas<note>S.20.362: Hand X (Thomas Hewlet), fol. 88v, left margin. Written vertically bottom to top along with several other erased pen trials in a different ink.</note></marginalia>
   <l id="L.20.362" n="KD.20.362">  ¶  That is ouerlonge quod this limitour &raisedpoint; I leue I shal amende it</l>
   <l id="L.20.363" n="KD.20.363">  And goth and gropeth contricioun &raisedpoint; and gaf hym a plastre</l>
   <l id="L.20.364" n="KD.20.364">  Of a pryue payement &raisedpoint; and I shal praye for &#541;ow</l>
