@@ -50,14 +50,15 @@ $(document).ready(function() {
     });
   });
 
-
-
-  // When we click on the icon, we'll toggle the view of its associated
+  // When we hover on the icon, we'll show the tooltip with its associated
   // marginalia.
-  $('.icon').click(function() {
-    var marginaliaId = '#' + $(this).attr('class').split(' ')[1];
-    $(marginaliaId).toggle();
+  $('.icon').tooltip({
+    bodyHandler: function() {
+      var marginaliaId = '#' + $(this).attr('class').split(' ')[1];
+      return $(marginaliaId).html();
+    },
+    showURL: false,
+    track: true,
+    delay: 0
   });
-
-
 });
