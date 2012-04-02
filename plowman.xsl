@@ -40,7 +40,7 @@
     </xsl:template>
     
     <xsl:template match="del">
-        <span class="@rendition"><xsl:apply-templates /></span>
+        <span class="@rendition del"><xsl:apply-templates /></span>
     </xsl:template>
 
     <xsl:template match="div1">
@@ -117,10 +117,6 @@
         <span class="expan"><xsl:value-of select="."/></span>
     </xsl:template>
     
-    <xsl:template match="del">
-        <span class="del"><xsl:value-of select="."/></span>
-    </xsl:template>
-    
     <xsl:template match="add">
         <span class="add"><xsl:value-of select="."/></span>
     </xsl:template>
@@ -129,12 +125,17 @@
         <span class="corr">[sic]</span>
     </xsl:template>
 
+
     <xsl:template match="marginalia">
         <xsl:variable name="witness" select="substring(@id, 1,2)">
             <!-- process the first part of the @id -->
         </xsl:variable>
         
+        <xsl:variable name="text_note" select="text()" />
+      
         <span class="marginalia {$witness}" id="{translate(@id, '.', '')}" data-id="{@id}">
+            <xsl:value-of select="$text_note" />
+            
             <xsl:apply-templates select="foreign" />
             <xsl:apply-templates select="note"/>
             <xsl:apply-templates select="rb"/>
