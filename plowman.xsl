@@ -121,10 +121,21 @@
         <span class="add"><xsl:value-of select="."/></span>
     </xsl:template>
     
+    <xsl:template match="sic">
+        <xsl:value-of select="."/>
+    </xsl:template>
+    
     <xsl:template match="corr">
-        <span class="corr">[sic]</span>
+        <xsl:value-of select="."/>
     </xsl:template>
 
+    <xsl:template match="damage">
+        <span class="dam"><xsl:value-of select="."/></span>
+    </xsl:template>
+    
+    <xsl:template match="supplied">
+        <span class="sup"><xsl:value-of select="."/></span>
+    </xsl:template>
 
     <xsl:template match="marginalia">
         <xsl:variable name="witness" select="substring(@id, 1,2)">
@@ -140,6 +151,11 @@
             <xsl:apply-templates select="note"/>
             <xsl:apply-templates select="rb"/>
             <xsl:apply-templates select="ur"/>
+            <xsl:apply-templates select="expan"/>
+            <xsl:apply-templates select="dam"/>
+            <xsl:apply-templates select="sup"/>
+            <xsl:apply-templates select="sic"/>
+            <xsl:apply-templates select="corr"/>
         </span>
         
         <xsl:apply-templates select="l"/>
