@@ -151,16 +151,16 @@
       
         <span class="marginalia {$witness}" id="{translate(@id, '.', '')}" data-id="{@id}">
             <xsl:value-of select="$text_note" />
-            
+
+            <xsl:apply-templates select="dam"/>
             <xsl:apply-templates select="foreign" />
-            <xsl:apply-templates select="note"/>
             <xsl:apply-templates select="rb"/>
             <xsl:apply-templates select="ur"/>
             <xsl:apply-templates select="expan"/>
-            <xsl:apply-templates select="dam"/>
             <xsl:apply-templates select="sup"/>
             <xsl:apply-templates select="sic"/>
             <xsl:apply-templates select="corr"/>
+            <xsl:apply-templates select="note"/>
         </span>
         
         <xsl:apply-templates select="l"/>
