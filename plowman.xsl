@@ -114,7 +114,7 @@
     </xsl:template>
     
     <xsl:template match="expan">
-        <span class="expan"><xsl:value-of select="."/></span>
+        <span class="expan"><xsl:value-of select="." /></span>
     </xsl:template>
     
     <xsl:template match="add">
