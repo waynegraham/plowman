@@ -16,6 +16,7 @@
             <link rel="stylesheet" href="css/style.css"/>
             <script src="http://static.scholarslab.org/javascripts/modernizr-2.0.6.js"/>
             <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"/>
+            <script src="javascripts/tooltip.js" />
             <script src="javascripts/interactions.js" />
 
             <body>
@@ -105,12 +106,14 @@
     <!-- this is a hack; takes a seg (from the list of entities in the DTD) and makes a span punctus -->
     <xsl:template match="seg">
         <span class="punctus">
-            <xsl:apply-templates select="."/>
+            <xsl:apply-templates />
         </span>
     </xsl:template>
         
     <xsl:template match="hi">
-        <span class="{@rend}"><xsl:value-of select="." /></span>
+        <span class="{@rend}">
+            <xsl:apply-templates />
+        </span>
     </xsl:template>
     
     <xsl:template match="expan">
@@ -122,7 +125,9 @@
     </xsl:template>
     
     <xsl:template match="sic">
-        <xsl:value-of select="."/>
+        <span class="sic">
+            <xsl:value-of select="."/>
+        </span>
     </xsl:template>
     
     <xsl:template match="corr">
