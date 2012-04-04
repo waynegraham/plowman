@@ -16,6 +16,7 @@
             <link rel="stylesheet" href="css/style.css"/>
             <script src="http://static.scholarslab.org/javascripts/modernizr-2.0.6.js"/>
             <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"/>
+            <script src="javascripts/tooltip.js" />
             <script src="javascripts/interactions.js" />
 
             <body>
