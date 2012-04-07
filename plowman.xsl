@@ -138,6 +138,10 @@
         <span class="dam"><xsl:value-of select="."/></span>
     </xsl:template>
     
+    <xsl:template match="unclear">
+        <span class="unclear"><xsl:value-of select="."/></span>
+    </xsl:template>
+    
     <xsl:template match="supplied">
         <span class="sup"><xsl:value-of select="."/></span>
     </xsl:template>
@@ -153,6 +157,7 @@
             <xsl:value-of select="$text_note" />
 
             <xsl:apply-templates select="dam"/>
+            <xsl:apply-templates select="unclear"/>
             <xsl:apply-templates select="foreign" />
             <xsl:apply-templates select="rb"/>
             <xsl:apply-templates select="ur"/>
