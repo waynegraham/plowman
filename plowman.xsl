@@ -150,6 +150,8 @@
         <xsl:variable name="text_note" select="text()" />
       
         <span class="marginalia {$witness}" id="{translate(@id, '.', '')}" data-id="{@id}">
+            <xsl:copy-of select="." />
+            <!-- 
             <xsl:value-of select="$text_note" />
             
             <xsl:apply-templates select="foreign" />
@@ -160,7 +162,7 @@
             <xsl:apply-templates select="dam"/>
             <xsl:apply-templates select="sup"/>
             <xsl:apply-templates select="sic"/>
-            <xsl:apply-templates select="corr"/>
+            <xsl:apply-templates select="corr"/> -->
         </span>
         
         <xsl:apply-templates select="l"/>

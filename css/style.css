@@ -59,7 +59,7 @@ h1 { text-align:center;
     border-color: brown;
 }
 
-.marginalia {
+.marginalia, marginalia {
     margin-left : 20px;
     font-family : 'IM Fell DW Pica', serif;
     font-size : 24px;
@@ -71,7 +71,7 @@ h1 { text-align:center;
     background-color: white;
 }
 
-.note {
+.note, note {
     font-style : italic;
     font-size : 16px;
     line-height : 1.25;
@@ -79,8 +79,17 @@ h1 { text-align:center;
     margin-top : 10px;
 }
 
-.rb {
+lb {
+  display: block;
+  clear: both;
+}
+
+hi[rend="rb"], .rb {
     color : red;
+}
+
+damage[rend="faded"] {
+  opacity: 0.666;
 }
 
 .ur {
@@ -96,15 +105,19 @@ h1 { text-align:center;
     text-shadow : 0.1em red;
 }
 
-.del {
+.del, del {
     text-decoration : line-through;
 }
 
-.add {
+del[rend="underlining"] {
+  text-decoration: underline;
+}
+
+.add, add {
     color : gray;
 }
 
-.expan {
+.expan, expan {
     font-style : italic;
 }
 
