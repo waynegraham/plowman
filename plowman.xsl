@@ -117,7 +117,7 @@
     </xsl:template>
     
     <xsl:template match="expan">
-        <span class="expan"><xsl:value-of select="."/></span>
+        <span class="expan"><xsl:value-of select="." /></span>
     </xsl:template>
     
     <xsl:template match="add">
@@ -138,6 +138,10 @@
         <span class="dam"><xsl:value-of select="."/></span>
     </xsl:template>
     
+    <xsl:template match="unclear">
+        <span class="unclear"><xsl:value-of select="."/></span>
+    </xsl:template>
+    
     <xsl:template match="supplied">
         <span class="sup"><xsl:value-of select="."/></span>
     </xsl:template>
@@ -153,13 +157,13 @@
             <xsl:copy-of select="." />
             <!-- 
             <xsl:value-of select="$text_note" />
-            
+
+            <xsl:apply-templates select="dam"/>
+            <xsl:apply-templates select="unclear"/>
             <xsl:apply-templates select="foreign" />
-            <xsl:apply-templates select="note"/>
             <xsl:apply-templates select="rb"/>
             <xsl:apply-templates select="ur"/>
             <xsl:apply-templates select="expan"/>
-            <xsl:apply-templates select="dam"/>
             <xsl:apply-templates select="sup"/>
             <xsl:apply-templates select="sic"/>
             <xsl:apply-templates select="corr"/> -->
