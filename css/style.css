@@ -88,6 +88,14 @@ hi[rend="rb"], .rb {
     color : red;
 }
 
+hi[rend="ur"], .ur {
+    border : 5 px solid red;
+}
+
+hi[rend="tr"], .tr {
+    text-shadow : 0.1em 0.1em red;
+}
+
 damage[rend="faded"] {
   opacity: 0.666;
 }
