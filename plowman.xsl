@@ -4,6 +4,8 @@
     exclude-result-prefixes="tei xs" version="2.0">
     <xsl:output method="html" encoding="UTF-8" indent="yes"/>
 
+    <xsl:strip-space elements="div span marginalia hi foreign expan sic corr"/>
+
     <xsl:template match="/">
         <xsl:text disable-output-escaping="yes">&lt;!DOCTYPE html></xsl:text>
         <html>
