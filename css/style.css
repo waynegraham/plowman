@@ -89,7 +89,11 @@ hi[rend="rb"], .rb {
 }
 
 hi[rend="ur"], .ur {
-    border : 5 px solid red;
+    text-decoration : underline ;
+}
+
+hi[rend="BinR"], .BinR {
+    border: 3px solid red;
 }
 
 hi[rend="tr"], .tr {
@@ -100,12 +104,20 @@ damage[rend="faded"] {
   opacity: 0.666;
 }
 
+unclear {
+  opacity: 0.666;
+}
+
+supplied {
+  opacity: 0.666;
+}
+
 .ur {
     text-decoration : underline ;
 }
 
 .BinR {
-    border : 5px solid red;
+    border : 3px solid red;
     padding : 5px;
 }
 
@@ -117,9 +129,6 @@ damage[rend="faded"] {
     text-decoration : line-through;
 }
 
-del[rend="underlining"] {
-  text-decoration: underline;
-}
 
 .add, add {
     color : gray;
